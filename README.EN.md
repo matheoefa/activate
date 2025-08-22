@@ -22,7 +22,7 @@ To create a resilient network, resistant to political interference, that equips 
 
 ## Join Us
 
-- **Email** jeromezogo@proton.me  
+- **Email** matheo.efa@proton.me  
 - **Follow our news** on [Twitter / Other platform]  
 - **Participate in discussions** on [Discord / Forum]  
 - **Submit code or governance ideas** via Pull Requests
