@@ -23,8 +23,7 @@ To create a resilient network, resistant to political interference, that equips 
 ## Join Us
 
 - **Email** matheo.efa@proton.me  
-- **Follow our news** on [Twitter / Other platform]  
-- **Participate in discussions** on [Discord / Forum]  
+- **Join us** on [Discord / Forum] (https://discord.gg/TW2rAmHR)  
 - **Submit code or governance ideas** via Pull Requests
  
 ---
