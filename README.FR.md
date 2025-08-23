@@ -15,8 +15,7 @@ Ce jeton confère des avantages tels que le statut au sein de la communauté et 
 
 ## Nous rejoindre
 - **Email** matheo.efa@proton.me
-- **Suivez nos actualités** sur [Twitter / Autre réseau]  
-- **Participez aux discussions** sur [Discord / Forum]  
+- **Rejoignez nous** sur [Discord / Forum](https://discord.gg/TW2rAmHR)  
 - **Proposez du code ou des idées de gouvernance** via Pull Requests  
 ---
 
