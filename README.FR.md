@@ -9,7 +9,7 @@ Activate Africa est une académie de recherche et enseignement de l'éducation c
 
 Activate Africa répond à ce défi en établissant une académie dédiée à la promotion, la recherche et l'enseignement d’une éducation civique active et pacifique à travers le continent. Elle relie les citoyens africains à des experts internationaux afin de faciliter l’échange de connaissances et d’expériences dans des domaines tels que les tactiques, la stratégie, la psychologie, la technologie, l’histoire, les médias, et bien plus encore. De plus, Activate Africa intègre un jeton blockchain pour rémunérer les experts pour leurs précieuses contributions ainsi que les beneficiaires pour leur participation.
 
-Ce jeton confère des avantages tels que le statut au sein de la communauté et des droits de vote sur des décisions clés. Il permet également aux contributeurs de construire et de porter leur réputation au-delà des frontières, dans le temps, sur différentes plateformes et communautés, renforçant ainsi un réseau de leaders civiques valables.
+Ce jeton confère des avantages tels que le statut au sein de la communauté et des droits de vote sur des décisions clés. Il permet également aux participants de construire et de porter leur réputation au-delà des frontières, dans le temps, sur différentes plateformes et communautés, renforçant ainsi un réseau de leaders civiques valables.
 
 ---
 
