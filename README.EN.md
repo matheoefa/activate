@@ -1,6 +1,6 @@
 # Activate Africa – via Peaceful Civic Action
 
-Activate Africa is an academy that teaches leadership and active civic education on the continent. Its global experts collaborate with African citizens in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Additionally, Activate Africa integrates a cryptotoken to compensate experts for their contributions.
+Activate Africa is an academy that teaches leadership and active civic education on the continent. Its global experts collaborate with African citizens in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Additionally, Activate Africa integrates a cryptotoken to compensate experts and trainees.
 
 ---
 
@@ -8,7 +8,7 @@ Activate Africa is an academy that teaches leadership and active civic education
 
 Across Africa, peaceful civic participation is increasingly under threat, particularly in many French-speaking countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities denied meaningful representation. Authoritarian regimes maintain their power by securing loyalty among elites and security forces while suppressing activists and dismantling the civic ecosystems essential for authentic social expression.
 
-Activate Africa responds to this challenge by establishing an academy for teaching and researching active and peaceful civic education across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. Additionally, Activate Africa integrates a utility token to compensate experts for their valuable contributions.
+Activate Africa responds to this challenge by establishing an academy for teaching and researching active and peaceful civic education across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. Additionally, Activate Africa integrates a utility token to compensate experts for their valuable contributions and trainees for their participation.
 
 This utility token confers benefits such as community status and voting rights on key decisions in the academy adminsitration. They also empower contributors to build and carry their reputations across borders, time, platforms, and communities, thereby strengthening a network of trusted civic leaders.
 
