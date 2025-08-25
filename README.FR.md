@@ -1,6 +1,6 @@
 # Activate Africa –  par l'Action Civique Pacifique
 
-Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Malheureusement l’éducation à la non-violence en Afrique n'a pas suivi. Activate Africa est une académie d'éducaton à la resistance non-violente, touchant les sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication, et bien plus encore. De plus, Activate Africa intègre une monaie crypto pour rémunérer  les les participants.
+Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Malheureusement l’éducation à la non-violence en Afrique n'a pas suivi. Activate Africa est une académie d'éducaton à la resistance non-violente, touchant les sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication, et bien plus. De plus, Activate Africa intègre une monaie crypto pour rémunérer  les les participants.
 
 ---
 
