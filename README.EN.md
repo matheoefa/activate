@@ -1,4 +1,4 @@
-# Activate Africa – via Peaceful Civic Action
+# Activate Africa – Education in Nonviolent Resistance
 
 As the weapons of violance have evolved, so have the weapons of non-violence. Unfortunately, the people of Africa have not kept up with this evolution. Activate Africa is an academy that researches and teaches active civic education on the continent. Its global experts collaborate with African citizens on tactics, strategy, psychology, leadership, technology, history, communication, and more.  Activate Africa also integrates a crypto currency to compensate stakeholders.
 
