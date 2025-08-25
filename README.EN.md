@@ -1,6 +1,6 @@
 # Activate Africa – via Peaceful Civic Action
 
-Activate Africa is an academy that teaches leadership and active civic education on the continent. Its global experts collaborate with African citizens in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Additionally, Activate Africa integrates a cryptotoken to compensate experts and trainees.
+Activate Africa is an academy that teaches leadership and active civic education on the continent. Its global experts collaborate with African citizens in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Activate Africa integrates a cryptotoken to compensate stakeholders.
 
 ---
 
