@@ -10,8 +10,7 @@ Across Africa, peaceful civic participation is increasingly under threat, partic
 
 Activate Africa responds to this challenge by establishing an academy for teaching and researching active civic education and non-violent resistence across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. One of the biggest barriers to action is ignorance which unfortunately sometimes leads to despair and even counter-productive violence.
 
-
-Activate is a crypto currency that supports this reserach and education endevour. It serves as compensation instruments for all stakeholders. This utility token confers benefits such as community status and voting rights on key decisions in the academy adminsitration. They also empower contributors to build and carry their reputations across borders, time, platforms, and communities, thereby strengthening a network of trusted civic leaders.
+Activate is a cryptocurrency that supports this research and education endeavor. It serves as a compensation instrument for all stakeholders. This utility token grants benefits such as community status and voting rights on key decisions in the academy’s administration. It also empowers contributors to build and carry their reputations across borders, time, platforms, and communities, strengthening a network of trusted civic leaders.
 
 ---
 
