@@ -1,6 +1,6 @@
 # Activate Africa –  Education à la Résistance Non-Violente
 
-Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Malheureusement, l’éducation à la résistance non-violente en Afrique n’a pas suivi. Activate Africa est une académie d’éducation à la résistance non-violente, abordant des sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication et bien plus. De plus, Activate Africa intègre une cryptomonnaie pour rémunérer les participants.
+Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Hélas, l’éducation à la résistance non-violente en Afrique n’a pas suivi. Activate Africa est une académie d’éducation à la résistance non-violente, abordant des sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication et bien plus. De plus, Activate Africa intègre une cryptomonnaie pour rémunérer les participants.
 
 ---
 
