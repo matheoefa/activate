@@ -1,6 +1,6 @@
 # Activate Africa - with Active Civic Education
 
-As weapons of violence have evolved, so have weapons of non-violence. Unfortunately, education in Africa has not kept pace with this evolution. Activate Africa is an academy that researches and teaches active civic education on the continent, including subjects such as tactics, strategy, psychology, leadership, technology, history, communication, social engneering, etc. Activate Africa also integrates a cryptocurrency to compensate stakeholders, including students, teachers, and researchers.
+As weapons of violence have evolved, so have weapons of non-violence. Unfortunately, education in Africa has not kept pace with this evolution. Activate Africa is an academy that researches and teaches active civic education on the continent, including subjects such as tactics, strategy, psychology, leadership, technology, history, communication, social engneering, etc. Activate Africa also integrates a cryptocurrency to compensate students, teachers, researchers, and other personnel.
 
 ---
 
