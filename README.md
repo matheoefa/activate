@@ -1,4 +1,4 @@
-# Activate Africa: Education in Nonviolent Resistance
+# Activate Africa - with Active Civic Education
 
 [English](README.EN.md) 
 
