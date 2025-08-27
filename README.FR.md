@@ -1,6 +1,6 @@
 # Activate Africa –  par l'Education Civique Active
 
-Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Hélas, l’éducation civique active  en Afrique n’a pas suivi. Activate Africa est une académie d’éducation civique active, abordant des sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication, l'ingenierie sociale et bien plus. De plus, Activate Africa intègre une cryptomonnaie pour rémunérer les participants.
+Tout comme les armes de violence, les armes de non-violence ont évolué au fil du temps. Hélas, l’éducation civique active  en Afrique n’a pas suivi. Activate Africa est une académie d’éducation civique active, abordant des sujets tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication, l'ingenierie sociale et bien plus. De plus, Activate Africa intègre une cryptomonnaie pour rémunérer les étudiants et le personnel.
 
 ---
 
