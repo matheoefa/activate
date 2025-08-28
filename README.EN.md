@@ -146,48 +146,48 @@ Activate Africa’s academy directly addresses this deficit, providing a pan-Afr
 
 ### The Token Economy
 
-Activate Africa’s token economy is carefully engineered to foster a mission-driven community focused on active civic education and peaceful participation while ensuring security and stability through measured transfer controls.
+Activate Africa’s token economy is carefully designed to build a mission-driven community focused on active civic education and peaceful participation, while ensuring security, compliance, and stability through well-planned transfer controls.
 
 #### Transfer and Liquidity Controls
 
-To balance usability with protection against speculation and abuse, several layered transfer restrictions are implemented:
+To prevent speculative abuse and maintain token ecosystem health, the following layered transfer restrictions are implemented:
 
 1. **Limit on General Number of Outbound Transfers per Wallet per Month:**  
-   Each wallet can make a limited number of outbound transfers each month. This measure prevents rapid token movement and frequent selling, encouraging thoughtful use while allowing flexibility.
+   Each wallet is limited in the number of outbound transfers it can make monthly, reducing rapid token movement and frequent trading while allowing necessary flexibility.
 
 2. **Limit Number of Transfers to Known Exchange Wallets:**  
-   Transfers to wallets known to belong to exchanges are restricted to control liquidity flowing into speculative trading markets. This keeps market actions aligned with the community’s mission.
+   Transfers to known exchange wallets are restricted to control liquidity flowing into speculative markets and preserve the token’s mission orientation.
 
 3. **Limit Transfer of Large Amounts per Wallet:**  
-   Wallets are subject to maximum transfer thresholds within given timeframes to prevent large sales or dumps that could negatively impact token stability and community confidence.
+   Maximum transfer thresholds exist to prevent large, destabilizing sales by single holders, supporting market stability.
 
 4. **Token Lock-Up Schedules:**  
-   Certain token allocations (such as contributions from founders, advisors, or large donors) are locked for predetermined periods. This staggers token supply increases and reduces market volatility.
+   Certain token allocations, such as to founders or big donors, are locked for set periods, gradually releasing tokens to avoid supply shocks and maintain stability.
 
 5. **Tiered Transfer Restrictions:**  
-   Different classes of holders — such as early contributors, institutional supporters, or new community members — face differentiated limits and lock-up rules suitable to their role and risk profile, ensuring fairness and ecosystem health.
+   Different classes of holders (early contributors, institutional supporters, new members) have tailored transfer limits and lock-up rules appropriate to their role and impact.
 
 6. **Rate Limiting:**  
-   Transfers are also rate-limited on shorter time scales (daily, weekly) in addition to monthly limits, mitigating abuse and enabling smoother market dynamics.
+   Transfers are further rate-limited on daily or weekly bases to prevent abuse and ensure smooth market flow.
 
 #### Blockchain Transparency and Fund Accountability
 
-Every token transaction, donation, and distribution is immutably logged on a public blockchain ledger accessible to all. This ensures complete transparency over fund allocation and token usage, preventing misuse and building trust among supporters and donors.
+All token transactions, donations, and distributions are publicly recorded on the blockchain, ensuring full transparency and enabling anyone to verify that funds are used strictly for the academy’s mission. This builds trust and accountability among supporters and beneficiaries.
 
 #### Legal Status: Ensuring the Token Is Not a Security
 
-Activate Africa’s token is explicitly designed to avoid classification as a security. It is not marketed or used as an investment for profit but as a utility and governance token rewarding active participation. The transfer controls play a crucial role in this, limiting liquidity to avoid speculative trading and helping meet criteria under frameworks like the Howey Test. This status also allows Activate Africa to widen its fundraising reach without burdensome securities regulations.
+Activate Africa’s token is purposefully structured to avoid classification as a security under the Howey Test and similar regulatory frameworks. It is a utility and governance token rewarding participation rather than an investment vehicle. Transfer restrictions limit liquidity and speculative trading, supporting this status and allowing wide-ranging fundraising without securities regulation burdens.
 
 #### Liquidity Pools and Community Support
 
-Liquidity pools enable small holders, committed individuals, and institutional supporters to buy and sell tokens within allowed limits, providing practical liquidity especially for small transfers. Extra restrictions on “whales” prevent large speculative moves, maintaining market stability and mission focus.
+Liquidity pools enable small holders, committed individuals, and institutional backers to collectively buy tokens and provide a marketplace for token exchange within allowed limits. The pools primarily support small holders needing liquidity, while restrictions on large “whale” transfers prevent destabilizing speculation. This structure ensures accessibility balanced with mission-focused stability.
 
 #### Earning Tokens Through Contribution
 
-Tokens are earned based on verified contributions to the mission — completing courses, creating content, engaging in governance, and providing expertise. This merit-based allocation fosters genuine engagement and community building, with all distributions transparently recorded on-chain.
+Tokens are earned through verified contributions such as course completion, content creation, research, and expert participation. This meritocratic system ensures tokens represent active civic engagement. All token distributions are transparently recorded on-chain, reinforcing integrity and trusting community governance.
 
+This comprehensive token economy combines robust transfer controls, transparent governance, and inclusive community engagement to create an accountable, sustainable system empowering peaceful civic education and democratic renewal across Africa.
 
-This multifaceted approach ensures a sustainable, transparent, and compliant token economy that empowers Africans and their diaspora to participate actively in democratic renewal through education and peaceful civic action.
 
 ---
 
