@@ -94,6 +94,7 @@ This challenging landscape demands innovative responses. **Activate Africa** off
 
 The DAO provides the organizational and accountability framework, while the expertise comes from contributors around the world who share practical and strategic knowledge directly with African communities. Contributions range from low-tech protest survival skills such as resisting tear gas, to creative tools like Canva and CapCut for producing impactful social media content, to secure communication methods for use during telecommunications shutdowns, to online anonymity techniques for evading oppressive surveillance. Tools such as AI-powered live translation can be used alongside these resources to facilitate cross-language collaboration between experts and activists. By integrating these contributions into a transparent, tamper-proof system, Activate Africa fosters a resilient network of skilled civic leaders capable of revitalizing democratic participation across French-speaking Africa.
 
+---
 ## Active Civic Education Worldwide
 
 Active civic education transcends traditional civics by emphasizing the practical skills and strategic knowledge needed for citizens to engage peacefully and effectively in social and political change. It prepares learners not only to understand their rights and responsibilities but to take deliberate, organized actions—such as protests, advocacy campaigns, coalition building, and strategic noncooperation—to shape policies and defend democracy.  
