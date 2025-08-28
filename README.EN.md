@@ -9,7 +9,7 @@ Across Africa, peaceful civic participation is increasingly under threat, partic
 
 Activate Africa responds to this challenge by establishing an academy for teaching and researching active civic education across the continent. We contend that as tools of oppression evolve, so must the mastery of tools of peaceful emancipation. The program connects African citizens with their diaspora and global experts, facilitating the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, social engineering, and more. One of the biggest barriers to action is ignorance, which sadly sometimes leads to despair and discontent.
 
-Activate is a cryptocurrency that supports this research and education endeavor. It serves as a compensation instrument for all stakeholders and grants benefits such as community status and voting rights on key decisions in the academy. It also empowers contributors to build and carry their reputations across borders, time, platforms, and communities—strengthening a network of trusted civic leaders.
+Activate is a cryptocurrency that supports this research and education endeavor. It serves as a compensation instrument for all stakeholders and is a key governance instrument, granting benefits such as community status and voting rights on key decisions. It also empowers contributors to build and carry their reputations across borders, time, platforms, and communities—strengthening a network of trusted civic leaders.
 
 ---
 
